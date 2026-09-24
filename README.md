@@ -233,4 +233,4 @@ This repository serves as the official landing page for Newzie. The software is 
 **Get the most recent version of Newzie today!**
 
 ---
-**Last updated:** 2026-09-24 18:54:03 UTC
+**Last updated:** 2026-09-24 22:08:15 UTC
